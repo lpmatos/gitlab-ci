@@ -4,3 +4,7 @@ image:
 tasks:
   - init: make
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - dracula-theme.theme-dracula@2.22.1:acEEGtphPo3sp9+wXQiSyw==
